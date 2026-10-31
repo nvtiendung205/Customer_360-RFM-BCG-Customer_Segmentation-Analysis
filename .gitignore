@@ -1,0 +1,41 @@
+# ==========================================
+# Power BI temporary & backup files
+# ==========================================
+*.pbix.backup
+~$*.pbix
+*.pbit
+*.abf
+
+# ==========================================
+# Operating System files
+# ==========================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ==========================================
+# IDE & Editor settings
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# Logs & temporary files
+# ==========================================
+*.log
+*.tmp
+*.bak
+
